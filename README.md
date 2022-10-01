@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [amit-website-coral.vercel.app](amit-website-coral.vercel.app)
+- 👨‍💻 All of my projects are available at [http://amit-website-coral.vercel.app](amit-website-coral.vercel.app)
 
 - 💬 Ask me about **React ,NodeJs ,MongoDB**
 
